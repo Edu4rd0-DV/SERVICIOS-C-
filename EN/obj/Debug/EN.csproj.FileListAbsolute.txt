@@ -1,0 +1,31 @@
+C:\Users\eduar\Escritorio\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Escritorio\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Escritorio\Backen\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Escritorio\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Escritorio\Backen\EN\obj\Debug\EN.pdb
+C:\Users\eduar\Escritorio\proyecto 1.1.1\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Escritorio\proyecto 1.1.1\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Escritorio\proyecto 1.1.1\Backen\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Escritorio\proyecto 1.1.1\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Escritorio\proyecto 1.1.1\Backen\EN\obj\Debug\EN.pdb
+C:\Users\eduar\Escritorio\proyecto 3.2.2\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Escritorio\proyecto 3.2.2\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Escritorio\proyecto 3.2.2\Backen\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Escritorio\proyecto 3.2.2\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Escritorio\proyecto 3.2.2\Backen\EN\obj\Debug\EN.pdb
+C:\Users\eduar\Escritorio\PROYECTO\lolis\proyecto 3.2.2\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Escritorio\PROYECTO\lolis\proyecto 3.2.2\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Escritorio\PROYECTO\lolis\proyecto 3.2.2\Backen\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Escritorio\PROYECTO\lolis\proyecto 3.2.2\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Escritorio\PROYECTO\lolis\proyecto 3.2.2\Backen\EN\obj\Debug\EN.pdb
+C:\Users\eduar\Escritorio\sistema 2.2.1.24\proyecto 3.2.2\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Escritorio\sistema 2.2.1.24\proyecto 3.2.2\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Escritorio\sistema 2.2.1.24\proyecto 3.2.2\Backen\EN\obj\Debug\EN.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Escritorio\sistema 2.2.1.24\proyecto 3.2.2\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Escritorio\sistema 2.2.1.24\proyecto 3.2.2\Backen\EN\obj\Debug\EN.pdb
+C:\Users\eduar\Downloads\Backen\EN\bin\Debug\EN.dll
+C:\Users\eduar\Downloads\Backen\EN\bin\Debug\EN.pdb
+C:\Users\eduar\Downloads\Backen\EN\obj\Debug\EN.csproj.AssemblyReference.cache
+C:\Users\eduar\Downloads\Backen\EN\obj\Debug\EN.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Downloads\Backen\EN\obj\Debug\EN.dll
+C:\Users\eduar\Downloads\Backen\EN\obj\Debug\EN.pdb
